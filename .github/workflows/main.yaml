@@ -1,7 +1,7 @@
 name: Build and deploy Python app to Azure Web App
 
 env:
-  AZURE_WEBAPP_NAME: '1640701650_w4'   # set this to your application's name
+  AZURE_WEBAPP_NAME: '1640701650w4'   
   PYTHON_VERSION: '3.9'               
 on:
   push:
