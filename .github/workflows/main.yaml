@@ -2,7 +2,7 @@ name: Build and deploy Python app to Azure Web App
 
 env:
   AZURE_WEBAPP_NAME: 'WebThree'   # set this to your application's name
-  PYTHON_VERSION: '3.13'               
+  PYTHON_VERSION: '3.12'               
 on:
   push:
     branches:
